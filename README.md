@@ -14,5 +14,4 @@ Im student Computer science at Instituto Federal de educação do Ceará-IFCE
 
 I work at Softbuilder, where I develop mobile applications using Flutter
   
-
-
+<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OzielFilho&hide=html&layout=compact&theme=dark%22" />
